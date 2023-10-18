@@ -24,5 +24,5 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver idei
 ## Estrutura de Diretórios
 
 ['Criptografia.c'](Criptografia.c): O arquivo fonte principal que contém a implementação da Cifra de César em C.  
-['LICENSE'](LICENSE): O arquivo de licença do programa.
+['LICENSE'](LICENSE): O arquivo de licença do programa.  
 ['README.md'](README.md): Apresentação do programa.
