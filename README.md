@@ -13,15 +13,15 @@ Este é um programa que implementa a Cifra de César em linguagem C, uma técnic
 2. Compile o programa usando um compilador C.
 3. Execute o programa e siga as instruções para criptografar ou decodificar as mensagens.
 
-### Licença
+## Licença
 
 Este programa é licenciado sob a Licença MIT - consulte o arquivo ['LICENSE'](LICENSE) para obter mais detalhes.
 
-### Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver ideias para melhorias, sinta-se à vontade para abrir um problema ou enviar um pull request.
 
-### Estrutura de Diretórios
+## Estrutura de Diretórios
 
 ['Criptografia.c'](Criptografia.c): O arquivo fonte principal que contém a implementação da Cifra de César em C.
 ['LICENSE'](LICENSE): O arquivo de licença do programa.
